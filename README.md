@@ -4,9 +4,8 @@ A GenAI web app that lets you upload any PDF and ask questions about it in plain
 
 ## Demo
 
-![App screenshot](screenshot.png)
 
-Live app: [Add your deployed Streamlit link here once deployed]
+Live app: [https://pdf-chatbot-kqqwpf3uysqbtfzzoyf7rq.streamlit.app/]
 
 ## What it does
 
