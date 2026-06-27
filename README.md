@@ -89,3 +89,5 @@ RAG is one of the most important patterns in production AI systems today. It all
 - Add a local model option (e.g. Ollama + LLaMA) so it works without an API key
 - Save the FAISS index to disk so it doesn't need to be rebuilt on every session
 - Add a source page number indicator so users can find the exact page the answer came from
+
+Made by Aleesha Binoy — BCA Data Science & AI
